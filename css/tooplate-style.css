@@ -44,6 +44,7 @@ a:hover {
 
 .navbar-brand .uil {
   font-size: 40px;
+  color: #93715c;
 }
 
 p {
@@ -97,14 +98,14 @@ strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #ffc200;
+  color: #93715c;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #93715c;
   color: #ffffff !important;
 }
 
@@ -121,7 +122,7 @@ strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #93715c;
 }
 .js {
   color: #f0db4f;
@@ -256,7 +257,7 @@ strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #93715c;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -338,7 +339,7 @@ strong {
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #93715c;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
   background: #0c0c0d;
@@ -445,7 +446,7 @@ strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #ffc200;
+  color: #93715c;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -479,10 +480,10 @@ strong {
 }
 .contact-form .form-control:hover,
 .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #93715c;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #93715c;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
